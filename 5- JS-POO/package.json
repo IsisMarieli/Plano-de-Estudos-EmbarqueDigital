@@ -1,0 +1,16 @@
+{
+  "name": "6--js-poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Admin.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
