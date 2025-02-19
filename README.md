@@ -1,4 +1,4 @@
-# Plano-de-Estudos-EmbarqueDigital
+# Plano de Estudos EmbarqueDigital - KickOff 2024.2
 
 - Planos de estudos: sequências de cursos, formações e outros conteúdos criados pela gestão da empresa Porto Digital.
 
